@@ -6,7 +6,7 @@ App Info is an iOS application that lets developers create a description for the
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/EQ3ZMn1.gif" width=200><br>
+<img src="https://i.imgur.com/EQ3ZMn1.gif" width=300><br>
 
 ### Required Features
 
